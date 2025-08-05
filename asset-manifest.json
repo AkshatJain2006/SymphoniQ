@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SymphoniQ/static/css/main.0f5d5dd8.css",
+    "main.js": "/SymphoniQ/static/js/main.4543984d.js",
+    "static/js/453.44a69f22.chunk.js": "/SymphoniQ/static/js/453.44a69f22.chunk.js",
+    "index.html": "/SymphoniQ/index.html",
+    "main.0f5d5dd8.css.map": "/SymphoniQ/static/css/main.0f5d5dd8.css.map",
+    "main.4543984d.js.map": "/SymphoniQ/static/js/main.4543984d.js.map",
+    "453.44a69f22.chunk.js.map": "/SymphoniQ/static/js/453.44a69f22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f5d5dd8.css",
+    "static/js/main.4543984d.js"
+  ]
+}
